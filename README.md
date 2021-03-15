@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Noahboa27
-- 👀 I’m interested in Software Development
+- 💼 Looking for a job in software
+- 👀 I’m interested in Android and Backend
 - 🌱 I’m currently learning Android application development with Kotlin
 - 💞️ I’m looking to collaborate on ANYTHING
 <!-- 📫 You can reach out to me by emailing -->
