@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Noah!
 - 💻 Technology lover
 - 🎮 Video game enjoyer
-- 🥇 Aspiring Android master
 <!-- 📫 You can reach out to me by emailing -->
 
 <!---
